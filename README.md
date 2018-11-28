@@ -15,6 +15,11 @@ pip install -r requirements.txt
 python manage.py runserver 0.0.0.0:8000    
 18.218.141.159:8000
 
+4. detach  
+screen    
+crt+a  and then d     
+screen+r    
+  
 ## start django
 virtualenv venv     
 source venv/bin/activate        
